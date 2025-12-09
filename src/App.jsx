@@ -2077,7 +2077,7 @@ const PhilosophyQuiz = () => {
         "usefulness, practicability, benefit",
         "prudence, courage, justice"
       ],
-      correct: 2
+      correct: 4
     },
     {
       id: 172,
@@ -2089,7 +2089,7 @@ const PhilosophyQuiz = () => {
         "Art is only fine art",
         "Art is skill and mastery"
       ],
-      correct: 1
+      correct: 0
     },
     {
       id: 173,
@@ -2101,7 +2101,7 @@ const PhilosophyQuiz = () => {
         "Art is only fine art",
         "Art is skill and mastery"
       ],
-      correct: 4
+      correct: 1
     },
     {
       id: 174,
@@ -2113,7 +2113,7 @@ const PhilosophyQuiz = () => {
         "Art is only fine art",
         "Art is skill and mastery"
       ],
-      correct: 0
+      correct: 4
     },
     {
       id: 175,
@@ -2137,7 +2137,7 @@ const PhilosophyQuiz = () => {
         "Art is only fine art",
         "Art is skill and mastery"
       ],
-      correct: 4
+      correct: 3
     },
     {
       id: 177,

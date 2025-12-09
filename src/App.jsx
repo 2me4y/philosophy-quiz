@@ -2699,7 +2699,7 @@ const PhilosophyQuiz = () => {
         <div className="max-w-2xl mx-auto">
           <div className="bg-white rounded-2xl shadow-xl p-8">
             <h1 className="text-4xl font-bold text-center mb-2 bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-              Философия Тест
+              Философия Тест ЕБАНАРОТ
             </h1>
             <p className="text-center text-gray-600 mb-8">Выберите режим прохождения теста</p>
             
